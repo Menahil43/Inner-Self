@@ -1,0 +1,8 @@
+Name: zara, Score: 0, Personality Scores: [Communication=2, Empathy=1, Adaptability=1, Resilience=3, Self-Awareness=3]
+Name: hgfoiusa, Score: 0, Personality Scores: [Communication=4, Empathy=0, Adaptability=1, Resilience=2, Self-Awareness=2]
+Name: VFJHG, Score: 0, Personality Scores: [Communication=0, Empathy=0, Adaptability=0, Resilience=0, Self-Awareness=0]
+Name: gd, Score: 0, Personality Scores: [Communication=0, Empathy=0, Adaptability=0, Resilience=0, Self-Awareness=0]
+Name: tli, Score: 0, Personality Scores: [Communication=0, Empathy=0, Adaptability=0, Resilience=0, Self-Awareness=0]
+Name: bd, Score: 0, Personality Scores: [Communication=0, Empathy=0, Adaptability=0, Resilience=1, Self-Awareness=0]
+Name: nbd, Score: 0, Personality Scores: [Communication=1, Empathy=1, Adaptability=0, Resilience=3, Self-Awareness=3]
+Name: gfy, Score: 0, Personality Scores: [Communication=1, Empathy=0, Adaptability=0, Resilience=3, Self-Awareness=2]
